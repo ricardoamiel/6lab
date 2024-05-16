@@ -1,0 +1,500 @@
+abism,2 -> 2 -> 3
+acab,4 -> 1 -> 4 -> 5 -> 6
+acabã³,1 -> 1
+accidental,1 -> 1
+acebed,1 -> 2
+acerc,1 -> 2
+acompaã±,4 -> 1 -> 2 -> 5 -> 6
+acompaã±arã­,1 -> 2
+acontec,2 -> 2 -> 3
+acud,3 -> 1 -> 5 -> 6
+acudirã­,1 -> 2
+acudiã³,1 -> 1
+adel,2 -> 1 -> 5
+adentr,1 -> 1
+agot,1 -> 6
+agu,1 -> 2
+alcanz,1 -> 2
+alde,1 -> 1
+alert,3 -> 1 -> 4 -> 5
+allã­,4 -> 1 -> 2 -> 5 -> 6
+amig,3 -> 1 -> 2 -> 3
+amo,3 -> 2 -> 4 -> 6
+amon,2 -> 1 -> 2
+anduin,3 -> 1 -> 2 -> 5
+anill,4 -> 1 -> 2 -> 4 -> 6
+aniquil,1 -> 2
+antigu,1 -> 2
+aparec,2 -> 2 -> 4
+apareciã³,1 -> 2
+aparent,2 -> 3 -> 4
+apartã³,1 -> 2
+apen,1 -> 2
+aprovech,2 -> 3 -> 6
+aragorn,5 -> 1 -> 2 -> 3 -> 5 -> 6
+araã±,1 -> 4
+armas,1 -> 1
+arnor,1 -> 1
+arrastr,1 -> 1
+arrastrã³,1 -> 2
+arrebat,1 -> 1
+arrebatã¡rsel,1 -> 1
+arroj,3 -> 2 -> 3 -> 6
+ascend,2 -> 4 -> 6
+asent,1 -> 2
+asfaloth,1 -> 1
+asã­,5 -> 1 -> 3 -> 4 -> 5 -> 6
+atac,5 -> 1 -> 2 -> 4 -> 5 -> 6
+ataqu,2 -> 3 -> 5
+atrap,3 -> 1 -> 3 -> 4
+atraves,2 -> 2 -> 4
+aunqu,2 -> 4 -> 6
+ayud,4 -> 1 -> 3 -> 5 -> 6
+aã±os,1 -> 1
+baj,2 -> 4 -> 5
+balin,1 -> 2
+balrog,1 -> 2
+barc,3 -> 2 -> 5 -> 6
+batall,3 -> 3 -> 5 -> 6
+bilb,2 -> 1 -> 6
+blanc,1 -> 3
+bolsã³n,1 -> 1
+bombadil,2 -> 1 -> 6
+bord,1 -> 6
+borom,3 -> 2 -> 3 -> 5
+bosqu,5 -> 1 -> 2 -> 3 -> 5 -> 6
+bre,1 -> 1
+bruin,1 -> 1
+bruj,2 -> 4 -> 5
+busc,5 -> 1 -> 2 -> 4 -> 5 -> 6
+bã¡rbol,2 -> 3 -> 6
+caball,2 -> 1 -> 5
+camin,5 -> 1 -> 2 -> 4 -> 5 -> 6
+camp,3 -> 1 -> 3 -> 5
+canciã³n,1 -> 1
+cant,1 -> 1
+captur,3 -> 1 -> 2 -> 4
+car,1 -> 5
+caradhr,1 -> 2
+carg,1 -> 6
+cas,3 -> 1 -> 3 -> 5
+cazador,1 -> 3
+caã­,1 -> 2
+celeborn,1 -> 2
+celebraciã³n,2 -> 1 -> 2
+cerc,3 -> 1 -> 2 -> 5
+cercan,1 -> 2
+cerr,2 -> 1 -> 6
+cirith,2 -> 4 -> 6
+ciud,3 -> 2 -> 3 -> 5
+clim,1 -> 2
+cobij,1 -> 2
+cogiã³,1 -> 2
+com,6 -> 1 -> 2 -> 3 -> 4 -> 5 -> 6
+comarc,2 -> 1 -> 6
+combat,1 -> 1
+comenz,1 -> 2
+comienz,4 -> 1 -> 4 -> 5 -> 6
+comit,2 -> 3 -> 6
+compaã±ã­,3 -> 4 -> 5 -> 6
+comun,1 -> 2
+concili,1 -> 2
+condujeron,1 -> 2
+consej,3 -> 2 -> 4 -> 5
+consig,2 -> 3 -> 5
+consigu,2 -> 2 -> 4
+continu,2 -> 4 -> 6
+continãº,2 -> 4 -> 6
+contr,4 -> 2 -> 4 -> 5 -> 6
+contã³,1 -> 2
+convenciã©ndol,1 -> 1
+convoc,2 -> 3 -> 5
+corrient,1 -> 1
+corsari,1 -> 5
+creã³,1 -> 2
+criatur,3 -> 1 -> 4 -> 6
+cruz,1 -> 2
+cuand,4 -> 1 -> 3 -> 4 -> 5
+cuant,1 -> 2
+cuatr,2 -> 3 -> 6
+cuent,5 -> 1 -> 2 -> 3 -> 5 -> 6
+cuerp,3 -> 4 -> 5 -> 6
+cumpl,1 -> 5
+cumpleaã±,1 -> 1
+curaciã³n,1 -> 2
+curs,1 -> 2
+custodi,2 -> 3 -> 4
+cã¡mar,1 -> 2
+deb,5 -> 1 -> 2 -> 4 -> 5 -> 6
+debã­,2 -> 2 -> 5
+decid,5 -> 1 -> 2 -> 3 -> 4 -> 5
+decidirã­,2 -> 1 -> 2
+decisiã³n,1 -> 1
+defend,2 -> 1 -> 3
+defens,2 -> 2 -> 3
+dej,4 -> 1 -> 3 -> 4 -> 6
+demã¡s,1 -> 2
+denethor,1 -> 5
+dentr,2 -> 2 -> 3
+dernhelm,1 -> 5
+derrot,3 -> 2 -> 3 -> 6
+des,1 -> 2
+desaparec,1 -> 4
+desapareciã³,1 -> 1
+desastr,1 -> 1
+descans,1 -> 2
+descubiert,2 -> 1 -> 4
+descubr,2 -> 3 -> 4
+desd,3 -> 3 -> 4 -> 5
+dese,1 -> 1
+despertã³,2 -> 2 -> 6
+despuã©s,3 -> 1 -> 2 -> 6
+destin,2 -> 1 -> 6
+destru,2 -> 2 -> 3
+deten,1 -> 5
+dirig,3 -> 3 -> 5 -> 6
+dirigã­,2 -> 5 -> 6
+discurs,1 -> 1
+discusiã³n,1 -> 1
+disponã­,1 -> 5
+dispus,1 -> 5
+distint,2 -> 2 -> 6
+dond,6 -> 1 -> 2 -> 3 -> 4 -> 5 -> 6
+dud,1 -> 1
+durant,4 -> 1 -> 2 -> 5 -> 6
+dã,1 -> 2
+dã¡ndol,1 -> 1
+dã­a,3 -> 1 -> 3 -> 5
+dã­as,5 -> 1 -> 2 -> 4 -> 5 -> 6
+dã­nen,1 -> 5
+echor,1 -> 5
+edor,3 -> 3 -> 5 -> 6
+ejã©rcit,2 -> 3 -> 5
+elfo,2 -> 1 -> 2
+elfos,2 -> 2 -> 6
+elrond,3 -> 1 -> 2 -> 6
+embarg,4 -> 1 -> 2 -> 4 -> 6
+emprend,2 -> 4 -> 6
+emyn,1 -> 4
+enan,1 -> 2
+encargã³,1 -> 2
+encerrã³,1 -> 2
+encontr,4 -> 1 -> 2 -> 5 -> 6
+encontrã³,2 -> 1 -> 2
+encuentr,5 -> 1 -> 3 -> 4 -> 5 -> 6
+enemig,4 -> 2 -> 4 -> 5 -> 6
+enfrentã³,1 -> 2
+enloquec,1 -> 5
+enseã±ã³,1 -> 1
+ent,1 -> 3
+entonc,5 -> 1 -> 2 -> 3 -> 5 -> 6
+entra,2 -> 4 -> 5
+entrar,2 -> 4 -> 5
+envi,1 -> 5
+eregion,1 -> 2
+escap,5 -> 1 -> 2 -> 3 -> 4 -> 6
+escond,1 -> 2
+escuch,1 -> 2
+espad,1 -> 5
+esper,2 -> 5 -> 6
+espes,1 -> 5
+esquiv,1 -> 2
+estab,4 -> 1 -> 2 -> 3 -> 5
+estarã­,1 -> 2
+estrategi,1 -> 3
+evit,1 -> 1
+fangorn,1 -> 3
+faram,3 -> 4 -> 5 -> 6
+fiest,1 -> 1
+final,2 -> 3 -> 4
+form,1 -> 2
+frod,6 -> 1 -> 2 -> 3 -> 4 -> 5 -> 6
+fueg,2 -> 2 -> 4
+fuer,2 -> 2 -> 5
+fuerz,2 -> 3 -> 5
+gal,3 -> 2 -> 3 -> 5
+galadriel,3 -> 2 -> 5 -> 6
+gam,1 -> 1
+gamyi,1 -> 1
+gandalf,5 -> 1 -> 2 -> 3 -> 5 -> 6
+geb,1 -> 2
+gimli,3 -> 2 -> 3 -> 5
+gladi,1 -> 1
+glorfindel,1 -> 1
+gollum,3 -> 1 -> 4 -> 6
+gondor,4 -> 2 -> 3 -> 5 -> 6
+graci,3 -> 1 -> 4 -> 5
+graved,1 -> 1
+griet,1 -> 6
+grup,2 -> 4 -> 5
+grã­ma,1 -> 3
+guard,2 -> 1 -> 3
+guardiã¡n,1 -> 2
+hab,3 -> 1 -> 5 -> 6
+habã­,5 -> 1 -> 2 -> 4 -> 5 -> 6
+hac,5 -> 1 -> 3 -> 4 -> 5 -> 6
+haci,6 -> 1 -> 2 -> 3 -> 4 -> 5 -> 6
+hald,1 -> 2
+hast,4 -> 1 -> 2 -> 4 -> 6
+hech,3 -> 2 -> 4 -> 5
+helm,1 -> 3
+hen,1 -> 2
+hereder,1 -> 2
+herenci,1 -> 1
+herman,3 -> 2 -> 5 -> 6
+hij,2 -> 5 -> 6
+hir,1 -> 1
+hobbit,4 -> 1 -> 2 -> 3 -> 4
+hobbits,5 -> 1 -> 2 -> 3 -> 4 -> 6
+hombr,1 -> 5
+hombre-sauc,1 -> 1
+huir,3 -> 2 -> 4 -> 6
+inconscient,2 -> 4 -> 6
+inform,3 -> 1 -> 3 -> 5
+informaciã³n,1 -> 1
+informã³,2 -> 2 -> 6
+inici,2 -> 5 -> 6
+iniciã³,1 -> 2
+intenciã³n,2 -> 3 -> 5
+intent,1 -> 5
+invit,1 -> 2
+irse,1 -> 1
+isengard,2 -> 2 -> 3
+isildur,2 -> 1 -> 5
+ithili,2 -> 4 -> 6
+jardiner,1 -> 1
+jinet,1 -> 5
+junt,4 -> 1 -> 2 -> 5 -> 6
+just,2 -> 4 -> 5
+khaz,1 -> 2
+krak,1 -> 2
+l,4 -> 1 -> 2 -> 5 -> 6
+lag,1 -> 2
+legol,3 -> 2 -> 3 -> 5
+liber,2 -> 3 -> 5
+libr,5 -> 2 -> 3 -> 4 -> 5 -> 6
+llam,4 -> 1 -> 2 -> 5 -> 6
+lleg,6 -> 1 -> 2 -> 3 -> 4 -> 5 -> 6
+llev,5 -> 1 -> 2 -> 3 -> 4 -> 5
+lob,1 -> 2
+locur,1 -> 5
+logr,4 -> 1 -> 2 -> 5 -> 6
+logrã³,1 -> 2
+lothlã³ri,1 -> 2
+luch,3 -> 4 -> 5 -> 6
+lueg,4 -> 1 -> 2 -> 3 -> 4
+lug,2 -> 5 -> 6
+lã¡tig,1 -> 2
+m,1 -> 2
+mag,4 -> 1 -> 2 -> 3 -> 6
+mal,1 -> 2
+malher,2 -> 4 -> 5
+man,2 -> 3 -> 6
+march,2 -> 4 -> 6
+mazarbul,1 -> 2
+medi,3 -> 2 -> 3 -> 6
+men,2 -> 3 -> 4
+merry,5 -> 1 -> 2 -> 3 -> 5 -> 6
+mes,2 -> 2 -> 6
+miembr,2 -> 2 -> 6
+mientr,5 -> 2 -> 3 -> 4 -> 5 -> 6
+min,5 -> 2 -> 3 -> 4 -> 5 -> 6
+mir,1 -> 3
+misiã³n,2 -> 4 -> 5
+mism,1 -> 1
+misteri,1 -> 1
+moment,3 -> 3 -> 5 -> 6
+monstru,1 -> 2
+mont,2 -> 1 -> 6
+montarac,2 -> 4 -> 5
+montaã±,2 -> 2 -> 6
+mordor,3 -> 2 -> 4 -> 5
+mori,2 -> 2 -> 4
+motiv,2 -> 1 -> 4
+much,1 -> 1
+muer,2 -> 3 -> 5
+muert,4 -> 2 -> 4 -> 5 -> 6
+muil,1 -> 4
+mã¡gic,1 -> 1
+mã¡s,4 -> 2 -> 3 -> 5 -> 6
+narr,1 -> 2
+nazgã,4 -> 1 -> 2 -> 5 -> 6
+neg,3 -> 1 -> 5 -> 6
+negr,4 -> 2 -> 4 -> 5 -> 6
+niebl,1 -> 1
+nob,1 -> 1
+noch,1 -> 1
+notici,2 -> 1 -> 3
+nubl,1 -> 2
+nuev,3 -> 1 -> 2 -> 6
+numer,1 -> 2
+objet,2 -> 3 -> 4
+oblig,4 -> 2 -> 3 -> 4 -> 5
+obra,1 -> 1
+ocasion,1 -> 1
+ocult,2 -> 4 -> 5
+ocurr,3 -> 2 -> 4 -> 5
+oest,3 -> 2 -> 3 -> 6
+ofreciã³,1 -> 2
+oportun,1 -> 3
+orcos,5 -> 2 -> 3 -> 4 -> 5 -> 6
+orden,1 -> 1
+orill,1 -> 2
+orodruin,2 -> 2 -> 6
+orthanc,2 -> 3 -> 6
+oscur,1 -> 1
+oã­rse,1 -> 2
+par,6 -> 1 -> 2 -> 3 -> 4 -> 5 -> 6
+parec,1 -> 2
+part,5 -> 1 -> 3 -> 4 -> 5 -> 6
+parth,3 -> 2 -> 3 -> 5
+partiã³,2 -> 1 -> 2
+pas,5 -> 1 -> 2 -> 4 -> 5 -> 6
+paz,1 -> 1
+ped,1 -> 2
+peligr,2 -> 2 -> 3
+pequeã±,1 -> 1
+per,5 -> 1 -> 2 -> 3 -> 4 -> 6
+perd,1 -> 1
+persegu,2 -> 1 -> 3
+persig,1 -> 1
+personaj,1 -> 1
+pes,2 -> 2 -> 6
+pies,2 -> 2 -> 6
+pippin,5 -> 1 -> 2 -> 3 -> 5 -> 6
+pir,1 -> 5
+pisadorâ,1 -> 1
+plan,2 -> 1 -> 4
+poc,2 -> 2 -> 6
+pod,1 -> 1
+pon,5 -> 1 -> 2 -> 3 -> 4 -> 6
+pos,1 -> 1
+posibl,1 -> 2
+prad,1 -> 2
+prepar,2 -> 3 -> 4
+pres,1 -> 2
+presenci,2 -> 4 -> 5
+pretext,1 -> 1
+principal,1 -> 1
+produc,2 -> 3 -> 6
+product,1 -> 1
+pronunci,1 -> 1
+prã­ncip,1 -> 2
+pud,1 -> 1
+puebl,1 -> 2
+pued,1 -> 5
+puent,1 -> 2
+puert,5 -> 2 -> 3 -> 4 -> 5 -> 6
+puest,2 -> 3 -> 5
+pus,3 -> 1 -> 2 -> 6
+pã³ney,1 -> 1
+quebr,1 -> 1
+qued,3 -> 1 -> 3 -> 5
+querã­,1 -> 2
+qui,5 -> 1 -> 2 -> 3 -> 5 -> 6
+ramm,1 -> 5
+rath,1 -> 5
+rechaz,1 -> 2
+recib,3 -> 3 -> 5 -> 6
+recuper,1 -> 6
+reflexion,1 -> 2
+regres,3 -> 1 -> 5 -> 6
+rein,2 -> 3 -> 4
+represent,2 -> 2 -> 3
+rescat,4 -> 3 -> 4 -> 5 -> 6
+rest,3 -> 1 -> 2 -> 4
+retuv,1 -> 2
+reun,1 -> 1
+revel,2 -> 3 -> 5
+revelã³,1 -> 2
+rey,5 -> 1 -> 3 -> 4 -> 5 -> 6
+rivendel,3 -> 1 -> 2 -> 6
+roh,4 -> 2 -> 3 -> 5 -> 6
+rohirrim,2 -> 3 -> 5
+roj,2 -> 5 -> 6
+ropaj,2 -> 5 -> 6
+rã­o,3 -> 1 -> 2 -> 5
+sabi,1 -> 1
+sabã­,1 -> 1
+sagrari,1 -> 5
+sal,4 -> 1 -> 2 -> 4 -> 5
+salv,2 -> 1 -> 3
+sam,4 -> 2 -> 3 -> 4 -> 6
+samsagaz,1 -> 1
+sarn,1 -> 2
+sarum,3 -> 2 -> 3 -> 6
+sauron,6 -> 1 -> 2 -> 3 -> 4 -> 5 -> 6
+seguã­,2 -> 2 -> 6
+sender,2 -> 5 -> 6
+senescal,2 -> 5 -> 6
+senescalã­,1 -> 2
+separaciã³n,2 -> 3 -> 4
+servici,1 -> 5
+servidor,1 -> 1
+sext,1 -> 5
+seã±al,2 -> 3 -> 5
+seã±or,3 -> 1 -> 2 -> 3
+sid,4 -> 1 -> 2 -> 5 -> 6
+siend,3 -> 1 -> 4 -> 6
+sigu,1 -> 2
+siguient,1 -> 1
+siguiã³,1 -> 2
+sirvient,1 -> 3
+siti,1 -> 5
+sobr,6 -> 1 -> 2 -> 3 -> 4 -> 5 -> 6
+sobrin,2 -> 1 -> 5
+sol,4 -> 2 -> 4 -> 5 -> 6
+sorprend,2 -> 1 -> 5
+sur,1 -> 5
+sã,1 -> 1
+tambiã©n,4 -> 1 -> 2 -> 4 -> 5
+tambor,1 -> 2
+tant,3 -> 4 -> 5 -> 6
+tard,3 -> 2 -> 3 -> 6
+tem,1 -> 2
+tenã­,1 -> 1
+termin,3 -> 1 -> 5 -> 6
+thã©od,3 -> 3 -> 5 -> 6
+tiemp,1 -> 2
+tiend,1 -> 1
+tierr,2 -> 2 -> 6
+tirith,5 -> 2 -> 3 -> 4 -> 5 -> 6
+tod,4 -> 2 -> 3 -> 5 -> 6
+tom,5 -> 1 -> 3 -> 4 -> 5 -> 6
+toqu,1 -> 1
+torr,2 -> 3 -> 4
+traiciã³n,2 -> 2 -> 4
+tramp,1 -> 1
+tranquil,1 -> 1
+trat,3 -> 1 -> 3 -> 5
+tratarã­,1 -> 2
+traz,1 -> 1
+trop,3 -> 4 -> 5 -> 6
+tumb,1 -> 2
+tumulari,1 -> 1
+tuv,2 -> 1 -> 6
+tãºmul,1 -> 1
+ucorn,2 -> 1 -> 3
+ungol,2 -> 4 -> 6
+usad,2 -> 2 -> 4
+vad,2 -> 1 -> 5
+vari,3 -> 3 -> 4 -> 5
+veint,1 -> 1
+viaj,5 -> 1 -> 2 -> 4 -> 5 -> 6
+viajer,1 -> 4
+viej,2 -> 1 -> 6
+vio,2 -> 2 -> 5
+visit,2 -> 5 -> 6
+viv,2 -> 1 -> 3
+vuelt,2 -> 2 -> 5
+vuelv,2 -> 4 -> 5
+«,3 -> 1 -> 3 -> 4
+»,6 -> 1 -> 2 -> 3 -> 4 -> 5 -> 6
+â,3 -> 1 -> 3 -> 4
+ã©l,6 -> 1 -> 2 -> 3 -> 4 -> 5 -> 6
+ã©lfic,1 -> 2
+ã©ste,2 -> 2 -> 6
+ãºltim,3 -> 1 -> 3 -> 6
+ãšnic,2 -> 1 -> 4
+ã‰om,3 -> 3 -> 5 -> 6
+ã‰owyn,2 -> 5 -> 6
