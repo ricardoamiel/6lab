@@ -14,38 +14,37 @@
 
 - **Preprocesamiento**:
   - Se ocupó la librería **nltk(especializada en procesamiento de lenguaje natural)**.
-  - Agrego al stoplist.txt signos de puntuación, para eliminar las palabras o signos que más aparezcan, pero que no den una información clara del documento. Luego de ello, se llamó a cada libro.txt y se hizo un split para guardar cada palabra en otros txt, esto se hace para lograr sacar los lexemas en el siguiente paso.
-  - Se llama al stemming de la librería y se guarda en los txt los lexemas de cada palabra de cada uno de los textos, se guarda en una lista de listas para su uso posterior (texts para lexemas y **texts2 para palabras**).
-  - Adjunto imagen del outuput, el cual retorna la lista de listas de los lexemas y palabras respectivamente. ![alt text](images/image-1.png)
+  - Agrego al stoplist.txt signos de puntuación y números por si apareciesen, para eliminar las palabras o signos que más aparezcan, pero que no den una información clara del documento. Luego de ello, se llamó a cada libro.txt y se hizo un split para guardar cada palabra en otros txt, esto se hace para lograr sacar los lexemas en el siguiente paso.
+  - La función de preprocesamiento realiza 4 pasos fundamentales => tokenizar, normalizar, sacar lexemas y eliminar stopwords.
+  - Adjunto imagen del outuput, el cual retorna una muestra del libro1 preprocesado. ![alt text](images/image-1.png)
 
-- **Construcción del Índice Invertido**:
+- **Implementación del Índice Invertido**:
   - Se ocupó la librería **collections**, el cual cuenta con un contador de frecuencias por cada elemento, justo lo que necesitamos. Además, cuenta con un método most_common(n), el cual recibe como parámetro un entero, por lo que de esa manera obtuvimos las 500 palabras más repetidas.
-  - Para construir el índice invertido tomamos un diccionario llamado index_words, el cual ocupará un key (palabra) y un value (tupla conformada por el libro y la frecuencia), lo que se busca es encontrar el libro y la cantidad de veces en el que aparece, en base a la key(palabra buscada) se realiza una serie de comparaciones recorriendo palabra por palabra en cada libro, si está dentro de las 500 palabras más comunes (aumenta la frecuencia y se añade junto al libro en el que se encontró), finalmente se valida que ha sido encontrado y se guarda en un archivo.
-  - Adjunto imagen del output, el cual retorna el contador de frecuencias por palabra en los 6 libros, y una pequeña muestra del índice invertido, el cual muestra en la palabra y la tupla(libro,frecuencia). ![alt text](images/image.png)
-  - Acá hay otra muestra de nuestro índice invertido ![alt text](images/image-10.png)
+  - La función toma dos listas: la que guarda los 6 libros y la de las n palabras más comunes. Se preprocesan todas, se ordenan alfabéticamente y luego por el libro en el que aparecen. El diccionario guarda como key la palabra y en cuantos libros aparece, y como value guarda el libro y las veces que aparece en él, finalmente se guarda en un archivo txt.
+  - Acá hay una muestra de nuestro índice invertido, guarda la palabra y los libros en los que aparece. ![alt text](images/image-2.png)
 
 - **Funciones Booleanas**:
   - Para implementación de las funciones booleanas, es sencillo tomar los libros enumerados del 1 al 6 como enteros, por lo que la comparación fue sencilla de realizar.
-  - Nuestra función L recibe una palabra y la busca en la lista de listas de palabras de cada libro, y retorna una lista con los libros en las que se encontró. A partir de ello se construyeron las 4 operaciones lógicas **AND, OR, NOT y ANDNOT**. Nos basamos en el pseudocódigo de la ppt, con la única diferencia que los parámetros que recibe son una función L() y los 'pointers' actúan tal cual memoria secundaria, adjunto imagen ![alt text](images/image-2.png)
+  - Nuestra **función L recibe una palabra y la busca en la lista de listas de lexemas de cada libro, y verifica si al sacarle el lexema a la palabra coincide.**. A partir de ello se construyeron las 4 operaciones lógicas **AND, OR, NOT y ANDNOT**. Nos basamos en el pseudocódigo de la ppt, con la única diferencia que los parámetros que recibe son una función L() y los 'pointers' actúan tal cual memoria secundaria, adjunto imagen ![alt text](images/image-3.png)
 
 #### 4. Resultados
 - **Ejecución de Consultas Booleanas**:
-  - Tomé de ejemplo las consultas del lab para probar los operadores lógicos, en base a ello generé 3 consultas que usaban 3 palabras, la tercera consulta fue elegida porque Gandalf es la palabra que más aparece en los libros del Señor de los Anillos. Adjunto imagen del output ![alt text](images/image-3.png)
+  - Tomé de ejemplo las consultas del laboratorio para probar los operadores lógicos, en base a ello generé 3 consultas que usaban 3 palabras, las 2 primeras consultas ocupan las palabras comunidad, frodo y gondor, por otra parte la tercera consulta fue elegida porque Gandalf es una de las palabras que más aparece en los libros del Señor de los Anillos. Adjunto imagen del output ![alt text](images/image-4.png)
 
 #### 5. Conclusiones
-- Se ha logrado construir un índice invertido con las palabras más frecuentes. Con la posibilidad de realizar búsqueda por palabra o por lexema.
-- Se han implementado las funciones booleanas para realizar consultas.
+- Se ha logrado construir un índice invertido con las 500 palabras más frecuentes. Con la posibilidad de realizar búsqueda por palabra o por lexema debido a la creación de los archivos. En la versión final solo se subió lo requerido, pero se realizaron pruebas ya que el lexema lograba reducir la redundancia que se tenía al guardar por palabras.
+- Se han implementado las funciones booleanas para realizar consultas, la librería nltk, re y collections fueron de ayuda por su manera sencilla de manejar los lexemas y generar contadores en los ítems de un diccionario.
 
-#### 6. Referencias
+
+## Referencias
 - Notas de clase.
 - https://docs.python.org/3/library/collections.html
 - https://www.nltk.org/
 
 ### Fragmento de código por pregunta:
 - ![alt text](images/image-5.png)
-- ![alt text](images/image-4.png)
 - PREGUNTA 3:
+  - ![alt text](images/image-8.png)
   - ![alt text](images/image-6.png)
   - ![alt text](images/image-7.png)
-  - ![alt text](images/image-8.png)
   - ![alt text](images/image-9.png)
