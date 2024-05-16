@@ -32,7 +32,11 @@
 - **Ejecución de Consultas Booleanas**:
   - Tomé de ejemplo las consultas del lab para probar los operadores lógicos, en base a ello generé 3 consultas que usaban 3 palabras, la tercera consulta fue elegida porque Gandalf es la palabra que más aparece en los libros del Señor de los Anillos. Adjunto imagen del output ![alt text](images/image-3.png)
 
-#### 5. Referencias
+#### 5. Conclusiones
+- Se ha logrado construir un índice invertido con las palabras más frecuentes. Con la posibilidad de realizar búsqueda por palabra o por lexema.
+- Se han implementado las funciones booleanas para realizar consultas.
+
+#### 6. Referencias
 - Notas de clase.
 - https://docs.python.org/3/library/collections.html
 - https://www.nltk.org/
