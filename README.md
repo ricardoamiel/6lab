@@ -22,7 +22,7 @@
   - Se ocupó la librería **collections**, el cual cuenta con un contador de frecuencias por cada elemento, justo lo que necesitamos. Además, cuenta con un método most_common(n), el cual recibe como parámetro un entero, por lo que de esa manera obtuvimos las 500 palabras más repetidas.
   - Para construir el índice invertido tomé un diccionario llamado index_words, el cual ocupará un key (palabra) y un value (tupla conformada por el libro y la frecuencia), lo que se busca es encontrar el libro y la cantidad de veces en el que aparece, en base a la key(palabra buscada) se realiza una serie de comparaciones recorriendo palabra por palabra en cada libro, si está dentro de las 500 palabras más comunes (aumenta la frecuencia y se añade junto al libro en el que se encontró), finalmente se valida que ha sido encontrado y se guarda en un archivo.
   - Adjunto imagen del output, el cual retorna el contador de frecuencias por palabra en los 6 libros, y una pequeña muestra del índice invertido, el cual muestra en la palabra y la tupla(libro,frecuencia). ![alt text](images/image.png)
-  - Acá hay otra muestra de nuestro índice invertido ![alt text](images/image.png)
+  - Acá hay otra muestra de nuestro índice invertido ![alt text](images/image-10.png)
 
 - **Funciones Booleanas**:
   - Para implementación de las funciones booleanas, es sencillo tomar los libros enumerados del 1 al 6 como enteros, por lo que la comparación fue sencilla de realizar.
