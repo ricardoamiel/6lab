@@ -32,15 +32,7 @@
 - **Ejecución de Consultas Booleanas**:
   - Tomé de ejemplo las consultas del lab para probar los operadores lógicos, en base a ello generé 3 consultas que usaban 3 palabras, la tercera consulta fue elegida porque Gandalf es la palabra que más aparece en los libros del Señor de los Anillos. Adjunto imagen del output ![alt text](images/image-3.png)
 
-#### 5. Discusión
-- Discusión sobre la efectividad del índice invertido en la recuperación de la información.
-- Limitaciones encontradas durante la implementación y posibles mejoras.
-
-#### 6. Conclusiones
-- Conclusiones generales sobre la experiencia de implementar y utilizar el índice invertido.
-- Importancia de las técnicas de preprocesamiento y normalización en la construcción de índices.
-
-#### 7. Referencias
+#### 5. Referencias
 - Notas de clase.
 - https://docs.python.org/3/library/collections.html
 - https://www.nltk.org/
